@@ -1,3 +1,4 @@
+-- Extend with key to open at project root
 return {
   "nvim-mini/mini.files",
   keys = {
